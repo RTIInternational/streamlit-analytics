@@ -20,7 +20,7 @@ setup(
     description="Track & visualize user interactions with your streamlit app",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/jrieke/streamlit-analytics",
+    url="https://github.com/RTIInternational/streamlit-analytics",
     license="MIT",
     python_requires=">=3.6",
     packages=find_packages(exclude=("tests", "docs", "examples")),
