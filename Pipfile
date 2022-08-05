@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = "==0.73.1"
+streamlit = "==1.11.1"
 altair = "==4.1.0"
 streamlit-metrics = "==0.1.0"
 pandas = "==1.1.3"
